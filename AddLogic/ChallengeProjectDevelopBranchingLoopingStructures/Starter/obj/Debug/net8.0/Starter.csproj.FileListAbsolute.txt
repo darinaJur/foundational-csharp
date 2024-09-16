@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/bin/Debug/net8.0/Starter
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/bin/Debug/net8.0/Starter.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/Starter.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/AddLogic/ChallengeProjectDevelopBranchingLoopingStructures/Starter/obj/Debug/net8.0/ref/Starter.dll
