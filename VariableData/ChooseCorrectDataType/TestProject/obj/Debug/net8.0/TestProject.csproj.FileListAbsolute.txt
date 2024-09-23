@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/bin/Debug/net8.0/TestProject
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/ChooseCorrectDataType/TestProject/obj/Debug/net8.0/ref/TestProject.dll
