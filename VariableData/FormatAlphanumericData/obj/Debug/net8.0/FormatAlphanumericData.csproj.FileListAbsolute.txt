@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/bin/Debug/net8.0/FormatAlphanumericData.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/refint/FormatAlphanumericData.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/FormatAlphanumericData.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/FormatAlphanumericData/obj/Debug/net8.0/ref/FormatAlphanumericData.dll
