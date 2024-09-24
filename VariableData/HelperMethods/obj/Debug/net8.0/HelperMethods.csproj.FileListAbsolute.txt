@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/bin/Debug/net8.0/HelperMethods
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/bin/Debug/net8.0/HelperMethods.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/bin/Debug/net8.0/HelperMethods.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/bin/Debug/net8.0/HelperMethods.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/bin/Debug/net8.0/HelperMethods.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/HelperMethods.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/HelperMethods.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/HelperMethods.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/HelperMethods.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/HelperMethods.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/refint/HelperMethods.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/HelperMethods.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/HelperMethods.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/HelperMethods/obj/Debug/net8.0/ref/HelperMethods.dll
