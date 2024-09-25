@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelperMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f66bfeaa6c79fa75a1c0e722aa117dcf40c6690")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ae75e4e023a9741a98a4eb48aedd3451a5d1667")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelperMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelperMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
