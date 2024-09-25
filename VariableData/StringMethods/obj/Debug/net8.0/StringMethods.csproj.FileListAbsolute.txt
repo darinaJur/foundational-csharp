@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/bin/Debug/net8.0/StringMethods
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/bin/Debug/net8.0/StringMethods.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/bin/Debug/net8.0/StringMethods.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/bin/Debug/net8.0/StringMethods.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/bin/Debug/net8.0/StringMethods.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/StringMethods.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/StringMethods.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/StringMethods.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/StringMethods.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/StringMethods.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/refint/StringMethods.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/StringMethods.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/StringMethods.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/VariableData/StringMethods/obj/Debug/net8.0/ref/StringMethods.dll
