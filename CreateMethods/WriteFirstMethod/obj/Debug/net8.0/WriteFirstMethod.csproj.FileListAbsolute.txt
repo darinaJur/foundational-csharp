@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/bin/Debug/net8.0/WriteFirstMethod
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/bin/Debug/net8.0/WriteFirstMethod.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/bin/Debug/net8.0/WriteFirstMethod.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/bin/Debug/net8.0/WriteFirstMethod.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/bin/Debug/net8.0/WriteFirstMethod.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/WriteFirstMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/WriteFirstMethod.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/WriteFirstMethod.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/WriteFirstMethod.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/WriteFirstMethod.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/WriteFirstMethod.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/refint/WriteFirstMethod.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/WriteFirstMethod.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/WriteFirstMethod.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/WriteFirstMethod/obj/Debug/net8.0/ref/WriteFirstMethod.dll
