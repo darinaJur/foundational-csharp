@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/bin/Debug/net8.0/MethodsWIthParameters
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/bin/Debug/net8.0/MethodsWIthParameters.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/bin/Debug/net8.0/MethodsWIthParameters.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/bin/Debug/net8.0/MethodsWIthParameters.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/bin/Debug/net8.0/MethodsWIthParameters.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/MethodsWIthParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/MethodsWIthParameters.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/MethodsWIthParameters.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/MethodsWIthParameters.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/MethodsWIthParameters.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/MethodsWIthParameters.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/refint/MethodsWIthParameters.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/MethodsWIthParameters.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/MethodsWIthParameters.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWIthParameters/obj/Debug/net8.0/ref/MethodsWIthParameters.dll
