@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/bin/Debug/net8.0/GuidedProjectPettingZooVisit
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/bin/Debug/net8.0/GuidedProjectPettingZooVisit.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/bin/Debug/net8.0/GuidedProjectPettingZooVisit.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/bin/Debug/net8.0/GuidedProjectPettingZooVisit.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/bin/Debug/net8.0/GuidedProjectPettingZooVisit.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/GuidedProjectPettingZooVisit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/GuidedProjectPettingZooVisit.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/GuidedProjectPettingZooVisit.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/GuidedProjectPettingZooVisit.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/GuidedProjectPettingZooVisit.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/GuidedProjectPettingZooVisit.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/refint/GuidedProjectPettingZooVisit.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/GuidedProjectPettingZooVisit.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/GuidedProjectPettingZooVisit.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/GuidedProjectPettingZooVisit/obj/Debug/net8.0/ref/GuidedProjectPettingZooVisit.dll
