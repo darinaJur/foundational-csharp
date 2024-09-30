@@ -1,0 +1,15 @@
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/bin/Debug/net8.0/MethodsWithReturnValues
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/bin/Debug/net8.0/MethodsWithReturnValues.deps.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/bin/Debug/net8.0/MethodsWithReturnValues.runtimeconfig.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/bin/Debug/net8.0/MethodsWithReturnValues.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/bin/Debug/net8.0/MethodsWithReturnValues.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/MethodsWithReturnValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/MethodsWithReturnValues.AssemblyInfoInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/MethodsWithReturnValues.AssemblyInfo.cs
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/MethodsWithReturnValues.csproj.CoreCompileInputs.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/MethodsWithReturnValues.sourcelink.json
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/MethodsWithReturnValues.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/refint/MethodsWithReturnValues.dll
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/MethodsWithReturnValues.pdb
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/MethodsWithReturnValues.genruntimeconfig.cache
+/Users/darina/Documents/Projects/C-sharp/foundational-csharp/CreateMethods/MethodsWithReturnValues/obj/Debug/net8.0/ref/MethodsWithReturnValues.dll
