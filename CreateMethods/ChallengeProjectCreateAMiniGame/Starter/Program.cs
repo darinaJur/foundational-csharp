@@ -25,9 +25,33 @@ string player = states[0];
 int food = 0;
 
 InitializeGame();
-while (!shouldExit) 
+while (!shouldExit)
 {
-    Move();
+    if (TerminalResized())
+    {
+        Console.Clear();
+        Console.WriteLine("Console was resized. Program exiting.");
+        shouldExit = true;
+        break;
+    }
+
+    // Check if the player is sick, freeze them if returns true
+    if (IsPlayerSick())
+    {
+        FreezePlayer();
+    }
+
+    // Check if the player is happy and adjust speed accordingly
+    int speed = isPlayerHappy() ? 3 : 1;
+
+    Move(speed);
+
+    // Check if food is consumed
+    if (ConsumedFood())
+    {
+        ChangePlayer();
+        ShowFood();
+    }
 }
 
 // Returns true if the Terminal was resized 
@@ -51,6 +75,11 @@ void ShowFood()
     Console.Write(foods[food]);
 }
 
+bool ConsumedFood()
+{
+    return playerY == foodY && playerX == foodX;
+}
+
 // Changes the player to match the food consumed
 void ChangePlayer() 
 {
@@ -66,8 +95,18 @@ void FreezePlayer()
     player = states[0];
 }
 
+bool IsPlayerSick()
+{
+    return player.Equals(states[2]);
+}
+
+bool isPlayerHappy()
+{
+    return player.Equals(states[1]);
+}
+
 // Reads directional input from the Console and moves the player
-void Move() 
+void Move(int speed = 1)
 {
     int lastX = playerX;
     int lastY = playerY;
@@ -81,10 +120,10 @@ void Move()
             playerY++; 
             break;
 		case ConsoleKey.LeftArrow:  
-            playerX--; 
+            playerX -= speed; 
             break;
 		case ConsoleKey.RightArrow: 
-            playerX++; 
+            playerX += speed;
             break;
 		case ConsoleKey.Escape:     
             shouldExit = true; 
