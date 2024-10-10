@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dfefee7e607cade804ba2001a7640c043d86360")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a8dc2b909c686cc88a11157b2cdef5917092201")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
